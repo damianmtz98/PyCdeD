@@ -1,6 +1,6 @@
-# PyCdeD
+# Procesamiento y Clasificación de Datos
 
-## Tarea 1
+## Semana 1
 
 ![Tarea 1](https://github.com/damianmtz98/PyCdeD/blob/main/T1_AnalisisEst_Libros_Reporte.pdf)
 
