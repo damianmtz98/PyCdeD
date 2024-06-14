@@ -6,3 +6,6 @@
 
 ## Semana 2
 - [Tarea 2 : Análisis de Sentimiento sobre Reseñas de Netflix.](https://github.com/damianmtz98/PyCdeD/blob/main/T2_AnalisisSent_Reviews_Netflix.pdf)
+
+## Semana 3
+- [Tarea 3 : Clasificación de Textos sobre Reseñas de Netflix.](https://github.com/damianmtz98/PyCdeD/blob/main/T3_ClasificacionTextos_Netflix_Reviews.pdf)
