@@ -9,3 +9,6 @@
 
 ## Semana 3
 - [Tarea 3 : Clasificación de Textos sobre Reseñas de Netflix.](https://github.com/damianmtz98/PyCdeD/blob/main/T3_ClasificacionTextos_Netflix_Reviews.pdf)
+
+## Semana 4
+- [Tarea 4 :  Clasificación de Imagenes usando Fashion MNIST. ](https://github.com/damianmtz98/PyCdeD/blob/main/T4_ClasificacionImagenes_Fashion.pdf) 
