@@ -12,3 +12,7 @@
 
 ## Semana 4
 - [Tarea 4 :  Clasificación de Imagenes usando Fashion MNIST. ](https://github.com/damianmtz98/PyCdeD/blob/main/T4_ClasificacionImagenes_Fashion.pdf) 
+
+## Semana 5
+- [Tarea 5 : API - Streamlit.](https://huggingface.co/spaces/damianatilano/MCD)
+
