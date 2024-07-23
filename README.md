@@ -16,3 +16,6 @@
 ## Semana 5
 - [Tarea 5 : API - Streamlit.](https://huggingface.co/spaces/damianatilano/MCD)
 
+
+## Semana 6-7
+- [Tarea 6: Análisis de Audio.](https://github.com/damianmtz98/PyCdeD/blob/main/T6_AnalisisAudio_NarracionMex.pdf)
