@@ -19,3 +19,6 @@
 
 ## Semana 6-7
 - [Tarea 6: Análisis de Audio.](https://github.com/damianmtz98/PyCdeD/blob/main/T6_AnalisisAudio_NarracionMex.pdf)
+
+## Semana 8-9 
+- [Tarea 8: Reconocimiento Comando de Voz.](https://github.com/damianmtz98/PyCdeD/blob/main/T8_ReconocimientoComandoVoz.pdf)
