@@ -22,3 +22,6 @@
 
 ## Semana 8-9 
 - [Tarea 8: Reconocimiento Comando de Voz.](https://github.com/damianmtz98/PyCdeD/blob/main/T8_ReconocimientoComandoVoz.pdf)
+
+## Proyecto Final
+- [PIA: Análisis de Sentimientos de Reseñas y Publicaciones en Inglés.](https://huggingface.co/spaces/damianatilano/Analisis_de_Sentimiento)
